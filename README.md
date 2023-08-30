@@ -1,7 +1,7 @@
 # FruitAdventure
 # First 2D Game
-I used a free asset for my project via: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360#description
-For the game sound fx : https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+### I used a free asset for my project via: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360#description
+### For the game sound fx : https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
 ## Start Screen
 ![StartScreen](https://github.com/beratcandindar/FruitAdventure/blob/main/Screenshots/StartScreen.png)
 ## Levels
